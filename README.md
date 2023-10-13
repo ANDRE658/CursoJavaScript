@@ -59,7 +59,7 @@ Num|Nome|Nota
 3 | sei lá | 12
 fim
 
-Para mostrar trecho de um código usa-se crase:
+Para mostrar trecho de um código usa-se crase ``:
 ```
 console.log(10>5); // retorna boolean
 console.log(10==10); // retorna boolean
@@ -70,3 +70,8 @@ console.log(10!=='10'); // retorna boolean - faz acomparação de tipos tambem
 ```
 
 olá🖖 <- para usar emogi usa-se : 🖱️
+
+Citações e marcar pessoas
+como diria @chingling 
+> Será que vai chover? reply
+
