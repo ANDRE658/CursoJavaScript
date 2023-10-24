@@ -15,4 +15,3 @@ const corUsuario = "Pink";
 const corPadrao = corUsuario || "Preta";
 
 console.log(nivelUsuario, corPadrao)
-oi
