@@ -10,3 +10,4 @@ console.log("Dia da semana "+data.getDay());
 console.log(Date.now())
 
 
+ 
